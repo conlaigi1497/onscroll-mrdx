@@ -1,0 +1,29 @@
+{
+  "name": "onscroll-mrdx",
+  "version": "3.5",
+  "description": "onscroll-mrdx",
+  "main": "index.js",
+  "files": [
+    "test",
+    "index.js"
+  ],
+  "scripts": {
+    "test": "node test/test.js"
+  },
+  "author": "MrDx <maihuy244@gmail.com>",
+  "license": "MIT",
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/conlaigi1497/onscroll-mrdx"
+  },
+  "keywords": [
+    "onscroll-mrdx"
+  ],
+  "bugs": {
+    "url": "https://github.com/conlaigi1497/onscroll-mrdx/issues"
+  },
+  "homepage": "https://github.com/conlaigi1497/onscroll-mrdx#readme",
+  "dependencies": {
+    "lodash": "^4.17.21"
+  }
+}
