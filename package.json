@@ -1,6 +1,6 @@
 {
   "name": "onscroll-mrdx",
-  "version": "3.5",
+  "version": "4.1.0",
   "description": "onscroll-mrdx",
   "main": "index.js",
   "files": [
@@ -24,6 +24,32 @@
   },
   "homepage": "https://github.com/conlaigi1497/onscroll-mrdx#readme",
   "dependencies": {
-    "lodash": "^4.17.21"
+    "average-mrdx": "^1.5.0",
+    "dropdown-sdk-mrdx": "^1.0.2",
+    "infinity-scrollbar": "^1.1.8",
+    "lodash": "^4.17.21",
+    "mxdc": "^1.1.8",
+    "mxdc-scrollbar": "^1.9.0",
+    "mxdc-scrollbar-ver": "^1.1.8",
+    "mxdc-scrollintoview": "^1.1.8",
+    "mxdc-scrollintoview-mxdc": "^1.1.8",
+    "onscroll-mrdx": "^1.1.1",
+    "panigation-sdk-mrdx": "^1.1.1",
+    "panigation-sdk-mxdc": "^1.1.8",
+    "rollback-scrollbar": "^0.0.8",
+    "scrollbar-aws": "^1.1.8",
+    "scrollbar-aws-mrdx": "^1.1.8",
+    "scrollbar-behavior-mxdc": "^1.1.8",
+    "scrollbar-mandatory-mrdx": "^1.1.8",
+    "scrollbar-mxdc": "^1.1.8",
+    "scrollbar-sdk-mrdx": "^1.1.2",
+    "scrollbar-sdk-new-mrdx": "^0.0.8",
+    "scrollbar-test": "^1.1.8",
+    "scrollbarker-mxdc": "^1.1.8",
+    "scrollbarr-mrdx": "^0.0.8",
+    "sdk-mxdc": "^1.1.8",
+    "substring-mrdx": "^1.3.0",
+    "tab-sdk-mrdx": "^0.0.8",
+    "video-sdk-mrdx": "^1.0.5"
   }
 }
